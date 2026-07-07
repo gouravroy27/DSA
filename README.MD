@@ -1,7 +1,7 @@
 <div align="center">
   
-<code>[ SYSTEM.BREACH.INITIATED ]</code> 
-<code>root@gourav:~/DSA_Matrix$ ./status_check.sh</code>
+# <code>[ SYSTEM.BREACH.INITIATED ]</code> 
+### <code>root@gourav:~/DSA_Matrix$ ./status_check.sh</code>
 
 ```text
    ___                            
@@ -14,13 +14,13 @@
 
 ---
 
-[ ./ABOUT_ME ]
+### [ ./ABOUT_ME ]
 
 sup. gourav here. 3rd-year college student just trying to survive the data structures matrix without getting completely cooked.
 
 this repo is basically my digital hyperbolic time chamber. lowkey just dropping my daily questions, brute-force Ls, and optimized Ws here to fix my skill issues. if you stumbled onto this page by accident... welcome to the void.
 
-[ ./WEAPON_OF_CHOICE ]
+### [ ./WEAPON_OF_CHOICE ]
 
 strictly **C++**. because of my story teller teacher :), ngl.
 
@@ -46,7 +46,7 @@ int main() {
 
 ---
 
-[ ./DIRECTORY_ARCHITECTURE ]
+### [ ./DIRECTORY_ARCHITECTURE ]
 
 ```text
 📦 DSA_Matrix
@@ -63,8 +63,7 @@ int main() {
 
 ---
 
-
-[ ./THE_GRIND_TRACKER ]
+### [ ./THE_GRIND_TRACKER ]
 
 keeping tabs on my progress so i can pretend i have my life together.
 
