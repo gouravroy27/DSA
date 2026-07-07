@@ -3,21 +3,16 @@
 # 🖥️ <code>[ SYSTEM.BREACH.SUCCESSFUL ]</code> 
 ### <code>root@gourav:~/DSA_Matrix$ ./whoami.sh</code>
 
-```text
-  ___   ___  _   _  ___    _   __   __
- / __| / _ \| | | || _ \  /_\  \ \ / /
-| (_ || (_) | |_| ||   / / _ \  \ V / 
- \___| \___/ \___/ |_|_\/_/ \_\  \_/  
-```
+<img src="[https://readme-typing-svg.herokuapp.com/?font=VT323&weight=bold&size=75&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=G+O+U+R+A+V](https://readme-typing-svg.herokuapp.com/?font=VT323&weight=bold&size=75&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=G+O+U+R+A+V)" alt="GOURAV"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=28&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=>+Hmmmmmmm morning kidss...;>+Status:+Dodging_TLEs_and_grinding_C%2B%2B...;>+Complexity:+O(n)_time_+_O(vibes)_space...;" />
+<img src="[https://readme-typing-svg.herokuapp.com/?font=VT323&size=28&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=](https://readme-typing-svg.herokuapp.com/?font=VT323&size=28&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=)>+Hmmmmmmm+morning+kidss...;>+Status:+Dodging_TLEs_and_grinding_C%2B%2B...;>+Complexity:+O(n)_time_+_O(vibes)_space...;" />
 
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="[https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" alt="C++"/>
+  <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" alt="Linux"/>
+  <img src="[https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)" alt="VS Code"/>
 </p>
 
 </div>
@@ -31,8 +26,10 @@ sup. gourav here. 3rd-year college student just trying to survive the data struc
 this repo is basically my digital hyperbolic time chamber. lowkey just dropping my daily questions, brute-force Ls, and optimized Ws here to fix my skill issues. if you stumbled onto this page by accident... welcome to the void. 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/He4wudo59ayiI/giphy.gif" width="300" style="border-radius: 8px;" alt="We need to cook"/>
+  <img src="[https://media.giphy.com/media/He4wudo59ayiI/giphy.gif](https://media.giphy.com/media/He4wudo59ayiI/giphy.gif)" width="300" style="border-radius: 8px;" alt="We need to cook"/>
 </div>
+
+---
 
 ### 🛠️ `[ ./WEAPON_OF_CHOICE ]`
 
@@ -56,6 +53,10 @@ int main() {
     return 0;
 }
 ```
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/QC7UQbxq89MnL9r6AN/giphy.gif](https://media.giphy.com/media/QC7UQbxq89MnL9r6AN/giphy.gif)" width="300" style="border-radius: 8px;" alt="Yeah Science!"/>
+</div>
 
 ---
 
@@ -82,6 +83,12 @@ how this brain-dump is actually organized so i don't lose my mind, and the stuff
 
 </details>
 
+<br>
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)" width="280" style="border-radius: 8px;" alt="Cat typing furiously"/>
+</div>
+
 ---
 
 ### 🎯 `[ ./THE_GRIND_TRACKER ]`
@@ -89,7 +96,7 @@ how this brain-dump is actually organized so i don't lose my mind, and the stuff
 keeping tabs on my progress so i can pretend i have my life together. 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V5bWZwaXN2M25hcXU5bXpxYzh0b2Z0N3N5Mm56ZHZ2Mmd4Nm93dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQirRIleUMtrgC3/giphy.gif" width="280" style="border-radius: 8px;" alt="Cat hacking laptop"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V5bWZwaXN2M25hcXU5bXpxYzh0b2Z0N3N5Mm56ZHZ2Mmd4Nm93dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQirRIleUMtrgC3/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V5bWZwaXN2M25hcXU5bXpxYzh0b2Z0N3N5Mm56ZHZ2Mmd4Nm93dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQirRIleUMtrgC3/giphy.gif)" width="280" style="border-radius: 8px;" alt="Cat hacking laptop"/>
 </div>
 
 <br>
@@ -107,7 +114,7 @@ keeping tabs on my progress so i can pretend i have my life together.
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" style="border-radius: 10px;" alt="It compiles send it" />
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)" width="220" style="border-radius: 10px;" alt="It compiles send it" />
   <br><br>
   <code>[ If it compiles then submit it :) ]</code><br>
   <code>[ CONNECTION_TERMINATED ]</code>
