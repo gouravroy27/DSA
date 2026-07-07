@@ -1,17 +1,16 @@
 <div align="center">
   
-# <code>[ SYSTEM.BREACH.INITIATED ]</code> 
-### <code>root@gourav:~/DSA_Matrix$ ./status_check.sh</code>
+# 🖥️ <code>[ SYSTEM.BREACH.SUCCESSFUL ]</code> 
+### <code>root@gourav:~/DSA_Matrix$ ./whoami.sh</code>
 
 ```text
-   ___                            
-  / __|___ _  _ _ _ __ ___ __     
- | (_ / _ \ || | '_/ _` \ V /     
-  \___\___/\_,_|_| \__,_|\_/      
-                                  
+  ___   ___  _   _  ___    _   __   __
+ / __| / _ \| | | || _ \  /_\  \ \ / /
+| (_ || (_) | |_| ||   / / _ \  \ V / 
+ \___| \___/ \___/ |_|_\/_/ \_\  \_/  
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=30&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=>+Gourav_Roy_has_entered_the_chat;>+Status:+Dodging_TLEs_and_touching_grass;>+O(n)_time,+O(vibes)_space;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=28&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=>+Gourav_Roy_is_online...;>+Status:+Dodging_TLEs_and_grinding_C%2B%2B...;>+Complexity:+O(n)_time_+_O(vibes)_space...;" />
 
 <br>
 
@@ -21,20 +20,16 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
 </p>
 
-<!-- ⚠️ REPLACE 'your-github-username' IN BOTH LINKS BELOW ⚠️ -->
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
-
 </div>
 
 ---
 
-### <code>[ ./ABOUT_ME ]</code>
+### 📁 <code>[ ./ABOUT_ME ]</code>
 sup. gourav here. 3rd-year college student just trying to survive the data structures matrix without getting completely cooked. 
 
 this repo is basically my digital hyperbolic time chamber. lowkey just dropping my daily questions, brute-force Ls, and optimized Ws here to fix my skill issues. if you stumbled onto this page by accident... welcome to the void. 
 
-### <code>[ ./WEAPON_OF_CHOICE ]</code>
+### 🛠️ <code>[ ./WEAPON_OF_CHOICE ]</code>
 strictly **C++**. because of my story teller teacher :), ngl. 
 
 ```cpp
@@ -58,10 +53,10 @@ int main() {
 
 ---
 
-### <code>[ ./DIRECTORY_ARCHITECTURE ]</code>
+### 🧬 <code>[ ./DIRECTORY_ARCHITECTURE ]</code>
 
 <details>
-<summary><code>>_ click_to_expand_directory_tree</code></summary>
+<summary><b><code>>_ click_to_expand_directory_tree</code></b></summary>
 <br>
 how this brain-dump is actually organized so i don't lose my mind, and the stuff i have to learn in few months i guess 😭😭😭 :
 
@@ -80,7 +75,7 @@ how this brain-dump is actually organized so i don't lose my mind, and the stuff
 
 ---
 
-### <code>[ ./THE_GRIND_TRACKER ]</code>
+### 🎯 <code>[ ./THE_GRIND_TRACKER ]</code>
 keeping tabs on my progress so i can pretend i have my life together. 
 
 > **System Status:** 🟢 `Online` | 🧠 `Brain Capacity: Low`
@@ -90,14 +85,13 @@ keeping tabs on my progress so i can pretend i have my life together.
 - [x] **Binary Search** (cutting the bs in half)
 - [ ] **Linked Lists** (reversing it without looking at the solution)
 - [ ] **Trees & Tries** (traversals)
-- [ ] **Heaps / Priority Queue** 
-- [ ] **Graphs** (finding the shortest path out of this major)
+- [ ] **Heaps / Priority Queue** - [ ] **Graphs** (finding the shortest path out of this major)
 - [ ] **Dynamic Programming** (we don't talk about DP yet)
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" style="border-radius: 10px;" />
-  <p><i>"it compiles, send it."</i></p>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" style="border-radius: 10px;" />
+  <br><br>
   <code>[ CONNECTION_TERMINATED ]</code>
 </div>
