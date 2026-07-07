@@ -10,7 +10,7 @@
  \___| \___/ \___/ |_|_\/_/ \_\  \_/  
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=28&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=>+Gourav_Roy_is_online...;>+Status:+Dodging_TLEs_and_grinding_C%2B%2B...;>+Complexity:+O(n)_time_+_O(vibes)_space...;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=28&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=>+Hmmmmmmm morning kidss...;>+Status:+Dodging_TLEs_and_grinding_C%2B%2B...;>+Complexity:+O(n)_time_+_O(vibes)_space...;" />
 
 <br>
 
