@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖥️ `[ SYSTEM.BREACH.SUCCESSFUL ]` 
+# 🖥️ `[ SYSTEM.GAVE UP.SUCCESSFUL ]` 
 ### `root@gourav:~/DSA_Matrix$ ./whoami.sh`
 
 ```text
