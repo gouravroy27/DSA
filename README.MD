@@ -3,28 +3,21 @@
 # <code>[ SYSTEM.BREACH.INITIATED ]</code> 
 ### <code>root@gourav:~/DSA_Matrix$ ./status_check.sh</code>
 
-```text
    ___                            
   / __|___ _  _ _ _ __ ___ __     
  | (_ / _ \ || | '_/ _` \ V /     
   \___\___/\_,_|_| \__,_|\_/      
-                                  
 
-```
 
----
-
-### [ ./ABOUT_ME ]
-
+[ ./ABOUT_ME ]
 sup. gourav here. 3rd-year college student just trying to survive the data structures matrix without getting completely cooked.
 
 this repo is basically my digital hyperbolic time chamber. lowkey just dropping my daily questions, brute-force Ls, and optimized Ws here to fix my skill issues. if you stumbled onto this page by accident... welcome to the void.
 
-### [ ./WEAPON_OF_CHOICE ]
+[ ./WEAPON_OF_CHOICE ]
+strictly C++. because of my story teller teacher :), ngl.
 
-strictly **C++**. because of my story teller teacher :), ngl.
-
-```cpp
+C++
 #include <iostream>
 using namespace std;
 
@@ -41,14 +34,8 @@ int main() {
     }
     return 0;
 }
-
-```
-
----
-
-### [ ./DIRECTORY_ARCHITECTURE ]
-
-```text
+[ ./DIRECTORY_ARCHITECTURE ]
+Plaintext
 📦 DSA_Matrix
  ┣ 📂 01_Arrays           # sliding windows and suffering
  ┣ 📂 02_Strings          # palindrome checks forever
@@ -58,23 +45,23 @@ int main() {
  ┣ 📂 06_Graphs           # dfs, bfs, and existential dread
  ┣ 📂 07_Dynamic_Prog     # memorizing past trauma (memoization)
  ┗ 📜 README.md           # you are here
-
-```
-
----
-
-### [ ./THE_GRIND_TRACKER ]
-
+[ ./THE_GRIND_TRACKER ]
 keeping tabs on my progress so i can pretend i have my life together.
 
-> **System Status:** 🟢 `Online` | 🧠 `Brain Capacity: Low`
+System Status: 🟢 Online | 🧠 Brain Capacity: Low
 
-* [ ] **Basics & Math** (time/space complexity, bit manipulation) *(USING AI BTW COZ IM BAD AT MATH)*
-* [ ] **Arrays & Hashing** (two pointers, prefix sums)
-* [x] **Binary Search** (cutting the bs in half)
-* [ ] **Linked Lists** (reversing it without looking at the solution)
-* [ ] **Trees & Tries** (traversals)
-* [ ] **Heaps / Priority Queue** - [ ] **Graphs** (finding the shortest path out of this major)
-* [ ] **Dynamic Programming** (we don't talk about DP yet)
+[ ] Basics & Math (time/space complexity, bit manipulation) (USING AI BTW COZ IM BAD AT MATH)
 
----
+[ ] Arrays & Hashing (two pointers, prefix sums)
+
+[x] Binary Search (cutting the bs in half)
+
+[ ] Linked Lists (reversing it without looking at the solution)
+
+[ ] Trees & Tries (traversals)
+
+[ ] Heaps / Priority Queue
+
+[ ] Graphs (finding the shortest path out of this major)
+
+[ ] Dynamic Programming (we don't talk about DP yet)
