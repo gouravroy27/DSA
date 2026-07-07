@@ -4,10 +4,10 @@
 ### `root@gourav:~/DSA_Matrix$ ./whoami.sh`
 
 ```text
-                           ___   ___  _   _  ___    _   __   __ 
-                          / __| / _ \| | | || _ \  /_\  \ \ / / 
-                         | (_ || (_) | |_| ||   / / _ \  \ V /  
-                          \___| \___/ \___/ |_|_\/_/ \_\  \_/   
+                ___   ___  _   _  ___    _   __   __ 
+               / __| / _ \| | | || _ \  /_\  \ \ / / 
+              | (_ || (_) | |_| ||   / / _ \  \ V /  
+               \___| \___/ \___/ |_|_\/_/ \_\  \_/   
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=VT323&size=28&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=>+Hmmmmmmm+morning+kidss...;>+Status:+Dodging_TLEs_and_grinding_C%2B%2B...;>+Complexity:+O(n)_time_+_O(vibes)_space...)](https://git.io/typing-svg)
@@ -59,6 +59,12 @@ int main() {
 }
 ```
 
+<div align="center">
+
+![Yeah Science!](https://media.giphy.com/media/QC7UQbxq89MnL9r6AN/giphy.gif)
+
+</div>
+
 ---
 
 ### 🧬 `[ ./DIRECTORY_ARCHITECTURE ]`
@@ -83,6 +89,8 @@ how this brain-dump is actually organized so i don't lose my mind, and the stuff
 ```
 
 </details>
+
+<br>
 
 <div align="center">
 
