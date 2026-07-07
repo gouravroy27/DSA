@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 🖥️ <code>[ SYSTEM.BREACH.SUCCESSFUL ]</code> 
 ### <code>root@gourav:~/DSA_Matrix$ ./whoami.sh</code>
 
@@ -24,12 +24,18 @@
 
 ---
 
-### 📁 <code>[ ./ABOUT_ME ]</code>
+### 📁 `[ ./ABOUT_ME ]`
+
 sup. gourav here. 3rd-year college student just trying to survive the data structures matrix without getting completely cooked. 
 
 this repo is basically my digital hyperbolic time chamber. lowkey just dropping my daily questions, brute-force Ls, and optimized Ws here to fix my skill issues. if you stumbled onto this page by accident... welcome to the void. 
 
-### 🛠️ <code>[ ./WEAPON_OF_CHOICE ]</code>
+<div align="center">
+  <img src="https://media.giphy.com/media/He4wudo59ayiI/giphy.gif" width="300" style="border-radius: 8px;" alt="We need to cook"/>
+</div>
+
+### 🛠️ `[ ./WEAPON_OF_CHOICE ]`
+
 strictly **C++**. because of my story teller teacher :), ngl. 
 
 ```cpp
@@ -53,11 +59,13 @@ int main() {
 
 ---
 
-### 🧬 <code>[ ./DIRECTORY_ARCHITECTURE ]</code>
+### 🧬 `[ ./DIRECTORY_ARCHITECTURE ]`
 
 <details>
 <summary><b><code>>_ click_to_expand_directory_tree</code></b></summary>
+
 <br>
+
 how this brain-dump is actually organized so i don't lose my mind, and the stuff i have to learn in few months i guess 😭😭😭 :
 
 ```text
@@ -71,12 +79,20 @@ how this brain-dump is actually organized so i don't lose my mind, and the stuff
  ┣ 📂 07_Dynamic_Prog     # memorizing past trauma (memoization)
  ┗ 📜 README.md           # you are here
 ```
+
 </details>
 
 ---
 
-### 🎯 <code>[ ./THE_GRIND_TRACKER ]</code>
+### 🎯 `[ ./THE_GRIND_TRACKER ]`
+
 keeping tabs on my progress so i can pretend i have my life together. 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V5bWZwaXN2M25hcXU5bXpxYzh0b2Z0N3N5Mm56ZHZ2Mmd4Nm93dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQirRIleUMtrgC3/giphy.gif" width="280" style="border-radius: 8px;" alt="Cat hacking laptop"/>
+</div>
+
+<br>
 
 > **System Status:** 🟢 `Online` | 🧠 `Brain Capacity: Low`
 
@@ -91,7 +107,8 @@ keeping tabs on my progress so i can pretend i have my life together.
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" style="border-radius: 10px;" alt="It compiles send it" />
   <br><br>
+  <code>[ If it compiles then submit it :) ]</code><br>
   <code>[ CONNECTION_TERMINATED ]</code>
 </div>
