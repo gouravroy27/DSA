@@ -4,10 +4,10 @@
 ### `root@gourav:~/DSA_Matrix$ ./whoami.sh`
 
 ```text
-  ___   ___  _   _  ___    _   __   __
- / __| / _ \| | | || _ \  /_\  \ \ / /
-| (_ || (_) | |_| ||   / / _ \  \ V / 
- \___| \___/ \___/ |_|_\/_/ \_\  \_/  
+                           ___   ___  _   _  ___    _   __   __ 
+                          / __| / _ \| | | || _ \  /_\  \ \ / / 
+                         | (_ || (_) | |_| ||   / / _ \  \ V /  
+                          \___| \___/ \___/ |_|_\/_/ \_\  \_/   
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=VT323&size=28&color=00FF00&center=true&vCenter=true&width=750&height=45&lines=>+Hmmmmmmm+morning+kidss...;>+Status:+Dodging_TLEs_and_grinding_C%2B%2B...;>+Complexity:+O(n)_time_+_O(vibes)_space...)](https://git.io/typing-svg)
@@ -59,12 +59,6 @@ int main() {
 }
 ```
 
-<div align="center">
-
-![Yeah Science!](https://media.giphy.com/media/QC7UQbxq89MnL9r6AN/giphy.gif)
-
-</div>
-
 ---
 
 ### 🧬 `[ ./DIRECTORY_ARCHITECTURE ]`
@@ -90,8 +84,6 @@ how this brain-dump is actually organized so i don't lose my mind, and the stuff
 
 </details>
 
-<br>
-
 <div align="center">
 
 ![Brain Dump](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXBibXFnODV1dnozdzJwMHdrcmU3eDU2Mmw4NTRlMWVhdm81dm9iaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T9lEUmQx0u74G3gZ5c/giphy.gif)
@@ -103,14 +95,6 @@ how this brain-dump is actually organized so i don't lose my mind, and the stuff
 ### 🎯 `[ ./THE_GRIND_TRACKER ]`
 
 keeping tabs on my progress so i can pretend i have my life together. 
-
-<div align="center">
-
-![Cat hacking laptop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V5bWZwaXN2M25hcXU5bXpxYzh0b2Z0N3N5Mm56ZHZ2Mmd4Nm93dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQirRIleUMtrgC3/giphy.gif)
-
-</div>
-
-<br>
 
 > **System Status:** 🟢 `Online` | 🧠 `Brain Capacity: Low`
 
@@ -128,7 +112,7 @@ keeping tabs on my progress so i can pretend i have my life together.
 
 ![It compiles send it](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-<br><br>
+<br>
 <code>[ If it compiles then submit it :) ]</code><br>
 <code>[ CONNECTION_TERMINATED ]</code>
 
