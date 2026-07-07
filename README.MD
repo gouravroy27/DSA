@@ -30,7 +30,7 @@ this repo is basically my digital hyperbolic time chamber. lowkey just dropping 
 
 <div align="center">
 
-![We need to cook](https://media.giphy.com/media/He4wudo59ayiI/giphy.gif)
+![Breaking Bad](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZtamxjcndkcHl1dGFnZzkyejE3YWpkaDh6YW9leHhieDlzbHk3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc11UljvpPKWeNva/giphy.gif)
 
 </div>
 
@@ -94,7 +94,7 @@ how this brain-dump is actually organized so i don't lose my mind, and the stuff
 
 <div align="center">
 
-![Cat typing furiously](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Brain Dump](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXBibXFnODV1dnozdzJwMHdrcmU3eDU2Mmw4NTRlMWVhdm81dm9iaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T9lEUmQx0u74G3gZ5c/giphy.gif)
 
 </div>
 
