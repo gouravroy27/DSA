@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖥️ `[ SYSTEM.GAVE UP.SUCCESSFUL ]` 
+# 🖥️ `[ SYSTEM.GAVE UP.SUCCESSFULLY ]` 
 ### `root@gourav:~/DSA_Matrix$ ./whoami.sh`
 
 ```text
@@ -74,7 +74,7 @@ int main() {
 
 <br>
 
-how this brain-dump is actually organized so i don't lose my mind, and the stuff i have to learn in few months i guess 😭😭😭 :
+how this brain-dump is actually organized so i don't lose my mind and also i have to learn these stuffs in few months tbh 😭😭😭
 
 ```text
 📦 DSA_Matrix
