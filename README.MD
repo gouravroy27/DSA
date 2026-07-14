@@ -107,9 +107,9 @@ keeping tabs on my progress so i can pretend i have my life together.
 > **System Status:** 🟢 `Online` | 🧠 `Brain Capacity: Low`
 
 - [ ] **Basics & Math** (time/space complexity, bit manipulation) *(USING AI BTW COZ IM BAD AT MATH)*
-- [ ] **Arrays & Hashing** (two pointers, prefix sums)
+- [x] **Arrays & Hashing** (two pointers, prefix sums)
 - [x] **Binary Search** (cutting the bs in half)
-- [ ] **Linked Lists** (reversing it without looking at the solution)
+- [x] **Linked Lists** (reversing it without looking at the solution)
 - [ ] **Trees & Tries** (traversals)
 - [ ] **Heaps / Priority Queue** - [ ] **Graphs** (finding the shortest path out of this major)
 - [ ] **Dynamic Programming** (we don't talk about DP yet)
